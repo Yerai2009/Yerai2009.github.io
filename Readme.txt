@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: FolioOne
-Template URL: https://bootstrapmade.com/folioone-bootstrap-portfolio-website-template/
+Template Name: Craftivo
+Template URL: https://bootstrapmade.com/craftivo-bootstrap-portfolio-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
